@@ -258,19 +258,11 @@ li {
     transition: color 650ms;
 }
 
-.fa-facebook-square:hover {
-    color: #4267b2;
-}
 
 .fa-github-square:hover {
     color: #F1502F;
 }
 
-.fa-instagram:hover {
-    background: linear-gradient( #3d155f,#E74292);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
 .fa-linkedin:hover {
     color: #234865;
